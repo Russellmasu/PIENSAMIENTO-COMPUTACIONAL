@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <title>Trabajo de Pensamiento computacional</title>
