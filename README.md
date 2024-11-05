@@ -1,49 +1,29 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Trabajo de Pensamiento computacional</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="Página personal de Rosario Leandra Apaza Mamani, estudiante de Administración de Negocios en la Universidad Católica San Pablo. Aquí puedes conocer más sobre mis estudios, cursos y compañeros de clase.">
+    <meta name="keywords" content=”Rosario Leandra Apaza Mamani, Administración de Negocios, Universidad Católica San Pablo">
+    <subtitle>Página de Rosario Leandra Apaza Mamani</subtitle>
 </head>
 <body>
-    <header>
-        <h1>Russell Javier Machaca Sucaticona</h1>
-        <p>Estudiante de Administración de Empresas</p>
-    </header>
-    <section id="datos">
-        <h2>Datos Generales</h2>
-        <p><strong>Nombre:</strong> Russell Javier Machaca Sucaticona</p>
-        <p><strong>Email:</strong> Russell.machaca@ucsp.edu.pe</p>
-        <p><strong>Ciudad:</strong> Arequipa</p>
-    </section>
-    <section id="carrera">
-        <h2>Carrera y Cursos Realizados</h2>
-        <p>Actualmente estoy estudiando Administración de Empresas. Algunos de los cursos que he realizado son:</p>
-        <ul>
-            <li>Derecho Empresarial</li>
-            <li>Comportamiento del Consumidor</li>
-            <li>Cálculo Financiero</li>
-            <li>Análisis y Diseño de Procesos</li>
-            <li>Costos Gerenciales</li>
-            <li>Logística</li>
-            <li>Contabilidad Gerencial</li>
-            <li>Microeconomía</li>
-            <li>Macroeconomía</li>
-            <li>Estadística y Probabilidades</li>
-            <li>Administración de Operaciones</li>
-            <li>Fundamentos de Administración</li>
-            <li>Lógica y Argumentación</li>
-            <li>Cálculo en una Variable</li>
-            <li>Cálculo en Varias Variables</li>
-            <li>Investigación de Mercados</li>
-            <li>Estadística para Administradores</li>
-        </ul>
-    </section>
-    <section id="companeros">
-        <h2>Compañeros de Grupo</h2>
-        <p>Estudio Administración con:</p>
-        <ul>
-            <li><a href="http://link-a-la-pagina-de-companero1.com" target="_blank">Compañero 1</a></li>
-            <li><a href="http://link-a-la-pagina-de-companero2.com" target="_blank">Compañero 2</a></li>
-            <li><a href="http://link-a-la-pagina-de-companero3.com" target="_blank">Compañero 3</a></li>
-            <!-- Agrega enlaces a otros compañeros -->
-        </ul>
-    </section>
+    <h1>Rosario Leandra Apaza Mamani</h1>
+    <p>Estudiante de Administración de Negocios en la Universidad Católica San Pablo.</p>
+    <h2>Cursos Realizados</h2>
+    <ul>
+        <li>Gestión de Proyectos</li>
+        <li>Taller de investigación II</li>
+        <li>Microfinanzas</li>
+        <li>Investigación de Operación</li>
+        <li>Administración de Operaciones </li>
+        <li>Ciencias de la Computación</li>
+        <li>Gestión de Servicios</li>
+    </ul>
+    <h2>Compañeros de clase</h2>
+    <ul>
+        <li><a href="enlace-a-la-página-del-compañero1.html">Nombre de tu compañero 1</a></li>
+        <li><a href="enlace-a-la-página-del-compañero2.html"> Nombre de tu compañero 2</a></li>
+        <li><a href="https://leslyegonza.github.io/LeslyeMilagrosGonzaRamos/">Leslye Gonza</a></li>
+    </ul>
+</body>
+</html>
